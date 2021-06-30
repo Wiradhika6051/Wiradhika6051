@@ -8,3 +8,8 @@ I already made a calculator to fins the roots of quadratic equation for android.
 Linkedin:https://www.linkedin.com/in/fawwaz-anugrah-wiradhika-dharmasatya-45959b1b8/
 
 Profile page(still very basic):https://wiradhika6051.github.io/profile_page/main.html
+
+
+##Technologies and tools
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
