@@ -5,8 +5,8 @@ I'm looking forward to meet many people and working on team while devloping my a
 
 
 I already made a calculator to fins the roots of quadratic equation for android.Although the UI still a mess.
-- Link:https://github.com/Wiradhika6051/Persamaan-Kuadrat-Solution
-- Linkedin:https://www.linkedin.com/in/fawwaz-anugrah-wiradhika-dharmasatya-45959b1b8/
+- Link:<br>https://github.com/Wiradhika6051/Persamaan-Kuadrat-Solution<br>
+- Linkedin:<br>https://www.linkedin.com/in/fawwaz-anugrah-wiradhika-dharmasatya-45959b1b8/<br>
 
 
 ### 📃 Profile page(still very basic)
