@@ -1,10 +1,10 @@
 ### Hi there 👋
 I'm Fawwaz Anugrah Wiradhika Dharmasatya.Currently studying in Bandung Institute of Technology(ITB) majoring in Informatic.
 I'm currently learning web development especially backend.
-I'm looking forward to meet many people and working on team while devloping my ability.
+I'm looking forward to meet many people and working on team while developing my ability.
 
 
-I already made a calculator to fins the roots of quadratic equation for android.Although the UI still a mess.
+I already made a calculator to find the roots of quadratic equation for android.cAlthough the UI still a mess.
 - Link:<br>https://github.com/Wiradhika6051/Persamaan-Kuadrat-Solution<br>
 - Linkedin:<br>https://www.linkedin.com/in/fawwaz-anugrah-wiradhika-dharmasatya-45959b1b8/<br>
 
