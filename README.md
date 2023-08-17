@@ -33,3 +33,10 @@ https://wiradhika6051.github.io/profile_page/main.html
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+
+<p align="left">
+  <a href="https://github.com/Wiradhika6051">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wiradhika6051&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wiradhika6051&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
